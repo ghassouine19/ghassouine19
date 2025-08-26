@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="200"/>
-</p>
-
 # Bonjour, je suis Abderrahmane Ghassouine 👋
 
 <p align="center">
