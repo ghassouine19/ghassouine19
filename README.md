@@ -24,9 +24,9 @@
 
 ## 📈 Statistiques GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbderrahmaneGhassouine&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghassouine19&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneGhassouine&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghassouine19&layout=compact&theme=radical)
 
 ## 🔗 Me contacter
 
