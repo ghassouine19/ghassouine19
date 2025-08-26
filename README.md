@@ -24,11 +24,10 @@
 
 ## 📈 Statistiques GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbderrahmaneGh&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbderrahmaneGhassouine&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneGh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneGhassouine&layout=compact&theme=radical)
 
 ## 🔗 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-ghassouine-93942a242)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge)](https://tonsite.com)
