@@ -6,6 +6,7 @@
 
 ## 🎓 À propos de moi
 
+- 🎓 Etudian Master **BIG DATA & CLOUD COMPUTING**
 - 🎓 Licence en **Sciences Mathématiques et Informatique (SMI), option Systèmes d'Information et Décisionnels (SID)**  
 - 💼 Expérience avec **React, Java, Spring Boot**  
 - 🌱 Actuellement en apprentissage de **Next.js et Docker**  
