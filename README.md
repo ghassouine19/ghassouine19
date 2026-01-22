@@ -6,29 +6,32 @@
 
 ## 🎓 À propos de moi 
 
-- 🎓 **Étudiant en Master 1** : Big Data & Cloud Computing à l'Université.  
+- 🎓 **Étudiant en Master 1** : Big Data & Cloud Computing à l’Université.  
 - 🎓 Ancien major de Licence en **Mathématiques et Informatique (option Systèmes d'Information et Décisionnels)**.  
-- 🌱 Je me spécialise dans le **développement full-stack**, **le Big Data**, et **l'innovation technologique**.  
-- 💡 Passionné par les **projets open-source** et la **recherche en data science**.  
-- 🚀 Objectifs 2026 : Contribuer à des projets de grande échelle dans les domaines du **Cloud** et de l'**IA** !
+- 💡 Expertise et passion pour le **Machine Learning**, **Big Data**, et l’**Intelligence Artificielle (IA)**.  
+- 🌱 Currently learning **Next.js**, **Docker**, et exploration avancée de modèles **Machine Learning**.  
+- 💼 Expériences : analyse statistique avancée (**R**, **SPSS**) et création de pipelines de données avec **Spark** et **Hadoop**.  
+- 🚀 Objectifs 2026 : Concevoir et valoriser des solutions **IA et Big Data** à grande échelle.
 
 ---
 
 ## 🛠️ Compétences
 
-### Langages de programmation
+### Langages de programmation & Statistiques
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Frameworks et Outils
+### Frameworks et Librairies Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-00599C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### Big Data & Cloud
@@ -55,9 +58,9 @@
 
 ## 🎯 Objectifs pour 2026
 
-- Publier des articles sur mes recherches en Open Source et Data Science.
-- Obtenir une certification **AWS Solutions Architect** et **Google Cloud Engineer**.
-- Collaborer sur des projets internationaux dans le Big Data.
+- Publier des articles sur mes recherches en **Machine Learning** et **Big Data**.  
+- Obtenir une reconnaissance et des certifications comme **Google Data Engineer** & **AWS Cloud Architect**.  
+- Participer à des collaborations dans la recherche en **IA avancée**.  
 
 ---
 
