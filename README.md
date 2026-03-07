@@ -48,17 +48,6 @@ Je m’intéresse à la construction de **pipelines de données** (ETL/ELT), au 
 
 ---
 
-## 📊 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghassouine19&show_icons=true&theme=radical&count_private=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghassouine19&layout=compact&theme=radical&langs_count=10" />
-</p>
-
----
-
 ## 🎯 Objectifs 2026
 - Approfondir **Data Engineering** (SQL avancé, modélisation, orchestration, qualité des données)
 - Renforcer la partie **Cloud** (AWS ou GCP) + certifications
