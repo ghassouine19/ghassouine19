@@ -50,7 +50,7 @@ Je m’intéresse à la construction de **pipelines de données** (ETL/ELT), au 
 
 ## 🎯 Objectifs 2026
 - Approfondir **Data Engineering** (SQL avancé, modélisation, orchestration, qualité des données)
-- Renforcer la partie **Cloud** (AWS ou GCP) + certifications
+- Renforcer la partie **Cloud** (AWS, AZURE ou GCP) + certifications
 - Publier davantage de contenu technique (notes, mini-projets, write-ups)
 
 ---
