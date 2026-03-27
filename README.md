@@ -63,4 +63,4 @@ Je m’intéresse à la construction de **pipelines de données** (ETL/ELT), au 
   <a href="mailto:tonemail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+</p> 
