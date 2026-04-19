@@ -1,4 +1,4 @@
-# Bonjour, je suis Abderrahmane Ghassouine
+# Bonjour, je suis Abderrahmane Ghassouine 
 
 **Étudiant en Master 1 Big Data & Cloud Computing** — Data Engineering • Machine Learning • Cloud  
 Je m’intéresse à la construction de **pipelines de données** (ETL/ELT), au **Machine Learning** et à la mise en production progressive (Docker, bonnes pratiques, automatisation).
