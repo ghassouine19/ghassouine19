@@ -1,66 +1,85 @@
-# Bonjour, je suis Abderrahmane Ghassouine  
-
-**Étudiant en Master 1 Big Data & Cloud Computing** — Data Engineering • Machine Learning • Cloud  
-Je m’intéresse à la construction de **pipelines de données** (ETL/ELT), au **Machine Learning** et à la mise en production progressive (Docker, bonnes pratiques, automatisation).
+# Bonjour, je suis Abderrahmane Ghassouine
+**Étudiant en Master 1 Big Data & Cloud Computing** — Data Engineering • Machine Learning • Cloud
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghassouine19&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Casablanca-Maroc-0EA5E9?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Disponibilité-Opportunités%20ouvertes-22C55E?style=flat-square" alt="Disponibilité" />
 </p>
 
----
-
-## 🎓 À propos de moi
-- 🎓 **Master 1** : Big Data & Cloud Computing  
-- 📌 Parcours : **Mathématiques & Informatique** (Systèmes d’Information & Décisionnel)  
-- 💡 Intérêts : **Data Engineering**, **Machine Learning**, **IA**, **Analytics**  
-- 🌱 En apprentissage : **Next.js**, **Docker**, et approfondissement des modèles **ML**  
-- 🧪 Expérience académique/outils : analyse statistique (**R**, **SPSS**), traitements et pipelines (**Spark**, **Hadoop**)  
-- 🎯 Objectif 2026 : concevoir et valoriser des solutions **IA & Big Data** à grande échelle
-
----
-
-## 🛠️ Compétences
-
-### Langages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-</p>
-
-### Machine Learning / Data
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Big Data & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
----
-
-## 🎯 Objectifs 2026
-- Approfondir **Data Engineering** (SQL avancé, modélisation, orchestration, qualité des données)
-- Renforcer la partie **Cloud** (AWS, AZURE ou GCP) + certifications
-- Publier davantage de contenu technique (notes, mini-projets, write-ups)
-
----
-
-## 🔗 Me contacter
 <p align="center">
-  <a href="https://linkedin.com/in/abderrahmane-ghassouine-93942a242">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tonemail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>  
+  <a href="https://github.com/ghassouine19/portfolio">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/abderrahmane-ghassouine-93942a242">LinkedIn</a> ·
+  <a href="mailto:ghassouine19abdou@gmail.com">Email</a>
+</p>
+
+<table>
+<tr>
+<td valign="top">
+
+### À propos
+- 🎓 Master M1 Big Data & Cloud Computing — Université Hassan II
+- 💡 Data Engineering, Cloud, Machine Learning, Data Science
+- 🧩 Expériences : Spring Boot + React, pipelines data sur Microsoft Azure
+- 🎯 Objectif 2026 : concevoir des solutions IA & Big Data à grande échelle
+
+</td>
+<td align="center" width="220">
+  <img src="https://raw.githubusercontent.com/ghassouine19/portfolio/1f948a10fbd694c754b4dfc524d7c62b24637676/img20250315_11563570%20(2).jpg" width="180" alt="Abderrahmane Ghassouine" />
+</td>
+</tr>
+</table>
+
+### En chiffres
+| Projets | Stages | Certifications | Langues |
+| --- | --- | --- | --- |
+| 4+ | 2 | 8+ | 3 |
+
+## Compétences clés
+**Langages**  
+`Python` `Java` `JavaScript` `SQL` `R`
+
+**Data & Cloud**  
+`Azure Event Hubs` `Azure Functions` `Azure Blob Storage` `Stream Analytics` `Kafka` `Docker` `PySpark` `Airflow`
+
+**Web / Backend**  
+`Spring Boot` `ReactJS` `REST API` `JWT` `Supabase`
+
+**ML / Computer Vision**  
+`OpenCV` `face_recognition` `Deep Learning` `CNN` `Azure ML Studio`
+
+**Outils & Méthodes**  
+`Git/GitHub` `Agile` `UML` `VSCode` `IntelliJ` `Draw.io`
+
+## Projets sélectionnés
+- **Budget Maroc** — application de gestion du budget avec tableau de bord, alertes et export. [Démo](https://lnkd.in/exR-kAxC)
+- **Casablanca Weather Streaming** — pipeline météo temps réel sur Azure (Event Hubs, Functions, Stream Analytics). [Démo](https://lnkd.in/eAvspfxP) · [Code](https://github.com/ghassouine19/casablanca-weather-streaming)
+- **Système de Pointage Automatique** — reconnaissance faciale pour le pointage étudiant (OpenCV, CNN).
+- **Application de Location de Véhicules** — plateforme complète React/Spring Boot avec paiements PayPal.
+- **RH Gestion App** — application RH en stage chez SYPEX. [Code](https://github.com/ghassouine19/RH_gestion_app)
+- **Transport Data Engineering Pipeline** — ingestion & analyse temps réel (Kafka, PySpark, Airflow). [Code](https://github.com/ghassouine19/transport-data-engineering)
+
+## Expérience & Formation
+**SYPEX — Développeur Full Stack (Stage)** · Août–Sept 2025  
+Spring Boot, ReactJS, MySQL, REST API — développement d'une application RH complète.
+
+**UDECO — Automatisme & Informatique Industrielle (Stage)** · Juin–Juil 2025  
+Programmation d'automates Siemens et initiation à la supervision industrielle.
+
+**Master M1 Big Data & Cloud Computing** · 2024–présent — Université Hassan II  
+**Licence Sciences Mathématiques & Informatique (SID)** · 2021–2024 — Université Hassan II
+
+## Certifications (sélection)
+- **Oracle** — MySQL Implementation Certified Associate (Mars 2026)
+- **IEEE** — Introduction to Agentic AI (Mars 2026)
+- **IBM** — Cloud Computing Fundamentals (Mars 2026)
+- **Cisco** — Introduction to Modern AI (Mars 2026)
+- **Cisco** — Python Essentials 1 (Mars 2026)
+- **Coursera** — AWS S3 Basics (Mars 2026)
+- **Coursera** — Create a VPC Using AWS (Mars 2026)
+- **Coursera** — ML Pipelines with Azure ML Studio (Fév 2026)
+
+## Me contacter
+- 📧 **Email**: [ghassouine19abdou@gmail.com](mailto:ghassouine19abdou@gmail.com)
+- 💼 **LinkedIn**: <a href="https://www.linkedin.com/in/abderrahmane-ghassouine-93942a242">Abderrahmane Ghassouine</a>
+- 💻 **GitHub**: <a href="https://github.com/ghassouine19">ghassouine19</a>
