@@ -60,7 +60,7 @@
 - **Transport Data Engineering Pipeline** — ingestion & analyse temps réel (Kafka, PySpark, Airflow). [Code](https://github.com/ghassouine19/transport-data-engineering)
 
 ## Expérience & Formation
-**SYPEX — Développeur Full Stack (Stage)** · Août–Sept 2025  
+**SYPEX — Développeur Full Stack (Stage)** · Août–Sept 2025   
 Spring Boot, ReactJS, MySQL, REST API — développement d'une application RH complète.
 
 **UDECO — Automatisme & Informatique Industrielle (Stage)** · Juin–Juil 2025  
