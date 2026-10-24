@@ -1,7 +1,7 @@
 
 # Bonjour, je suis Abderrahmane Ghassouine 👋
 
-**Étudiant en Master 1 Big Data & Cloud Computing**  
+**Étudiant en Master 2 Big Data & Cloud Computing**  
 Data Engineering • Machine Learning • Cloud Computing
 
 <p align="center">
@@ -23,7 +23,7 @@ Data Engineering • Machine Learning • Cloud Computing
     <td valign="top">
       <h3>À propos</h3>
       <ul>
-        <li>🎓 Master 1 Big Data & Cloud Computing — Université Hassan II, Casablanca</li>
+        <li>🎓 Master 2 Big Data & Cloud Computing — Université Hassan II, Casablanca</li>
         <li>💡 Data Engineering, Cloud, Machine Learning et Business Intelligence</li>
         <li>🧩 Pipelines de données de bout en bout avec Spark, Hudi, Airflow et Docker, ainsi que du streaming sur Microsoft Azure</li>
         <li>🎯 <strong>À la recherche d'un stage de fin d'études (PFE) à partir de janvier/février 2027</strong></li>
