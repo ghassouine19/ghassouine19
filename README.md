@@ -39,7 +39,7 @@ Data Engineering • Machine Learning • Cloud Computing
 
 | Projets | Stages | Certifications | Langues |
 |:---:|:---:|:---:|:---:|
-| 5+ | 2 | 8 | 3 |
+| 15+ | 2 | 8 | 3 |
 
 ## 🛠️ Compétences clés
 
